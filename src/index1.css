@@ -1,0 +1,78 @@
+body{
+   overflow-x: hidden !important;
+
+}
+
+.back{
+	margin-top:-20px;
+	width:auto;
+	height:975px;
+/*margin-left:-1000px; */
+background-color:#edf7f5;
+background-repeat: no-repeat;
+/*position:fixed;*/
+background-size: cover;
+background-position: center center;
+/*overflow-x: hidden !important;*/
+}
+/*.image_left{
+	margin-bottom:90px;
+	margin-left:320px;
+	height:55px;
+	width:200px;
+	position: relative;
+}*/
+/*.navbar-right{
+	margin-right:150px;
+}
+li{
+	padding-left:16px;
+	margin-top:20px;  
+}*/
+.top-margin{
+	/*margin-top:100px;*/
+	/*margin-left:100px;*/
+}
+.img-responsive{
+	margin-top:100px;
+}
+/*img.logo-navbar {
+    width: 2rem !important;
+    height: 2rem !important;
+}*/
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
+}
+.example6 .navbar-brand{
+	width: 400px;
+}
+.body{
+	background-color:#bec4c4;
+	width:auto;
+}
+.a{
+	margin-top:250px;
+}
+.line{
+	border:1px solid white;
+	margin-top:20px;
+	margin-left:100px;
+	margin-right:160px;
+	margin-bottom: 100px;
+
+}
+.parallax{
+  /* The image used */
+  background-image: url('download1.jpeg');
+   width:auto;
+  height: 100%; 
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
